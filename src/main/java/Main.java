@@ -1,3 +1,8 @@
+// Aviral Mishra
+// TTT with 2D arrays
+// Period 5
+// 02/13/2024
+
 /*
 This project must play Tic-Tac-Toe.
 
@@ -36,8 +41,6 @@ and return true if the '2' team would win
 at tic-tac-toe?
 
 */
-
-// Aviral Mishra
 
 import java.util.Arrays;
 import java.util.Scanner;
